@@ -1,0 +1,12 @@
+Mind Read / Brain Stable Diffusion
+Sora
+Neuralink
+
+
+1. Read user's thoughts throughout day
+2. Make a prompt for a video with LLM AI
+3. Generate a Sora video in first-person POV 
+    Imaginal scene implying fulfillment of needs
+4. Have them watch after a PZ session
+    Turn video change off
+    Keep volume changing
